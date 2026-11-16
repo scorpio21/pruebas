@@ -24,3 +24,4 @@
 1. Cloná el repositorio:
    ```bash
    git clone https://github.com/scorpio21/buscador-psx.git
+2. pruebas
